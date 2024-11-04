@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yevhenii Danoi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yev
 ======================================================================================================================================
 
 FullStack JavaScript Developer
@@ -7,7 +7,7 @@ FullStack JavaScript Developer
 I am FullStack JavaScript Developer with an ambition to continue learning. I like building apps in Node/Express and React/Redux
 
 * ✉️  You can contact me at [geneforapp@gmail.com](mailto:geneforapp@gmail.com)
-* 🚀  I'm currently working on [Proffessional Electrical Store] (https://elektromassive.com/)
+* 🚀  I'm currently working on [Proffessional Electrical Store](https://elektromassive.com)
 * 🧠  I'm learning Computer Science
 
 ### Skills
