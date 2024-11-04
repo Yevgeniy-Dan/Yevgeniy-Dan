@@ -7,8 +7,8 @@ FullStack JavaScript Developer
 I am FullStack JavaScript Developer with an ambition to continue learning. I like building apps in Node/Express and React/Redux
 
 * ✉️  You can contact me at [geneforapp@gmail.com](mailto:geneforapp@gmail.com)
-* 🚀  I'm currently working on [Music Social Media]
-* 🧠  I'm learning NestJS
+* 🚀  I'm currently working on [Proffessional Electrical Store] (https://elektromassive.com/)
+* 🧠  I'm learning Computer Science
 
 ### Skills
 
